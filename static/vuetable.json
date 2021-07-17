@@ -1,0 +1,51 @@
+{
+    "list": [{   
+        "user_type":1 ,
+        "legal_person": "方秋柳",
+        "license_key": "12345678", 
+        "industry": "1",       
+        "comName": "鑫融物流有限公司",
+        "state": 1,
+        "contact": "林丽",
+        "tel": "13912345678",
+        "carNum": 1,
+        "region": "宜春市",
+        "reg_time": "2019-01-06 00:00:00"
+    },{       
+        "user_type":1 , 
+        "legal_person": "文敏",
+        "license_key": "69854836", 
+        "industry": "3",       
+        "comName": "华茂物流有限公司",
+        "state": 1,
+        "contact": "魏强",
+        "tel": "18162236688",
+        "carNum": 112,
+        "region": "宜春市",
+        "reg_time": "2019-01-07 00:00:00"
+    },{        
+        "user_type":1 ,
+        "legal_person": "杨秀兰",
+        "license_key": "99552367", 
+        "industry": "1",       
+        "comName": "江西省三辉物流有限公司",
+        "state": 1,
+        "contact": "朱洋",
+        "tel": "13866895532",
+        "carNum": 18,
+        "region": "宜春市",
+        "reg_time": "2019-01-09 00:00:00"
+    },{     
+        "user_type":1 ,   
+        "legal_person": "建霞辉",
+        "license_key": "69854836", 
+        "industry": "5",       
+        "comName": "信坪瑞和物流有限公司",
+        "state": 1,
+        "contact": "富察天华",
+        "tel": "13699336655",
+        "carNum": 36,
+        "region": "宜春市",
+        "reg_time": "2019-01-07 00:00:00"
+    }]
+}
